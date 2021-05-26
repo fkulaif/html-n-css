@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(133, 177, 155);
+}
+
+h1,
+h2,
+h3 {
+  font-family: monospace;
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.5rem;
+}
