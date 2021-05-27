@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+article {
+    background-color: sandybrown;
+}
+ #post2{
+    background-color: aquamarine;
+    color: purple;
+    font-weight: 400;
+}
+#post2{
+    background-color: aquamarine;
+} 
+#post3{
+    background-color: blueviolet;
+} 
